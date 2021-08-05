@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">P12 Our Singapore</string>
+    <string name="title">Name</string>
+    <string name="entertitle">Enter name of island here</string>
+    <string name="singers">Description</string>
+    <string name="entersingers">Enter island description here</string>
+    <string name="year">Area (in square km)</string>
+    <string name="enteryear">Enter area of island here</string>
+    <string name="stars">Stars</string>
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="four">4</string>
+    <string name="five">5</string>
+    <string name="insert">Insert</string>
+    <string name="showlist">Show List</string>
+    <string name="filter5stars">Show all islands with 5 stars (no filter)</string>
+    <string name="songid">Island ID:</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="insertisland">Insert new Island</string>
+</resources>
